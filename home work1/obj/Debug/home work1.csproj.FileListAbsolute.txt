@@ -1,0 +1,11 @@
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\bin\Debug\home work1.exe.config
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\bin\Debug\home work1.exe
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\bin\Debug\home work1.pdb
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\obj\Debug\home work1.csprojResolveAssemblyReference.cache
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\obj\Debug\home work1.csproj.CoreCompileInputs.cache
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\obj\Debug\home work1.exe
+C:\Users\cynth\OneDrive\Desktop\lab1\home work1\obj\Debug\home work1.pdb
+C:\Users\cynth\OneDrive\Desktop\home work1\obj\Debug\home work1.csprojResolveAssemblyReference.cache
+C:\Users\cynth\OneDrive\Desktop\home work1\obj\Debug\home work1.csproj.CoreCompileInputs.cache
+C:\Users\cynth\OneDrive\Desktop\home work1\obj\Debug\home work1.exe
+C:\Users\cynth\OneDrive\Desktop\home work1\obj\Debug\home work1.pdb
